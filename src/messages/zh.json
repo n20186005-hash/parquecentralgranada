@@ -90,7 +90,7 @@
     "cityValue": "格拉纳达市 (Granada)",
     "googleRating": "谷歌评分",
     "address": "地址",
-    "addressValue": "Parque central, Ave Vega, Granada, 尼加拉瓜 (https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6)",
+    "addressValue": "Parque central, Ave Vega, Granada, 尼加拉瓜",
     "plusCode": "Plus 代码",
     "plusCodeValue": "W2HW+XC 格拉纳达 尼加拉瓜"
   },
@@ -117,9 +117,7 @@
     "students": "文化体验",
     "studentsPrice": "周边有众多历史建筑和文化景点",
     "children": "建议",
-    "childrenPrice": "尊重当地文化，保护历史环境",
-    "card": "附加服务",
-    "cardPrice": "可购买纪念品"
+    "childrenPrice": "尊重当地文化，保护历史环境"
   },
   "transport": {
     "title": "交通方式",

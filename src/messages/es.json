@@ -90,7 +90,7 @@
     "cityValue": "Granada",
     "googleRating": "Calificación de Google",
     "address": "Dirección",
-    "addressValue": "Parque central, Ave Vega, Granada, Nicaragua (https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6)",
+    "addressValue": "Parque central, Ave Vega, Granada, Nicaragua",
     "plusCode": "Código Plus",
     "plusCodeValue": "W2HW+XC Granada Nicaragua"
   },
@@ -117,9 +117,7 @@
     "students": "Experiencia Cultural",
     "studentsPrice": "Muchos edificios históricos y atracciones culturales cercanos",
     "children": "Recomendaciones",
-    "childrenPrice": "Respetar la cultura local y proteger el ambiente histórico",
-    "card": "Servicios Adicionales",
-    "cardPrice": "Souvenirs disponibles"
+    "childrenPrice": "Respetar la cultura local y proteger el ambiente histórico"
   },
   "transport": {
     "title": "Transporte",

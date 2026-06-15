@@ -117,9 +117,7 @@
     "students": "Cultural Experience",
     "studentsPrice": "Many historical buildings and cultural attractions nearby",
     "children": "Recommendations",
-    "childrenPrice": "Respect local culture and protect historical environment",
-    "card": "Additional Services",
-    "cardPrice": "Souvenirs available"
+    "childrenPrice": "Respect local culture and protect historical environment"
   },
   "transport": {
     "title": "Transportation",
