@@ -1,0 +1,383 @@
+{
+  "meta": {
+    "title": "Parque Central de Granada | Granada Central Park",
+    "description": "Explore Parque Central de Granada in Granada, Nicaragua. A beautiful urban park located in the historic center, an important gathering place for locals and tourists."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Parque Central de Granada",
+    "subtitle": "Granada Central Park · Nicaragua",
+    "rating": "4.5",
+    "reviewCount": "8,408",
+    "hours": "Urban Park",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Parque Central de Granada",
+    "description": "Parque Central de Granada is located in Granada, Granada Department, Nicaragua. It is the most important urban park in Granada, situated in the historic center surrounded by the cathedral and other colonial buildings, an important gathering place for locals and tourists.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "Park open 24 hours, visit anytime",
+        "Wear comfortable walking shoes",
+        "Bring a camera to capture beautiful park and surrounding architecture",
+        "Evening visits offer beautiful lighting and atmosphere"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Historic center: Located in Granada's colonial center, surrounded by important historic buildings.",
+        "Cultural gathering place: Important meeting place for locals and tourists, full of vitality.",
+        "Beautiful scenery: Park features beautiful gardens, fountains, and resting areas.",
+        "Prime location: Walking distance to Granada's main attractions."
+      ]
+    }
+  },
+  "route": {
+    "title": "Tour Route",
+    "overview": "Discover the ideal route to explore Parque Central de Granada and experience the essence of urban park and Granada's colonial culture.",
+    "steps": [
+      "Start from the park's main entrance and enjoy the central plaza and fountain.",
+      "Stroll along the walking paths and admire the surrounding colonial buildings.",
+      "Rest on the park benches and feel the daily life of locals.",
+      "Return to the park in the evening to enjoy the beautifully lit night scenery."
+    ],
+    "supplementsTitle": "Additional Tour Tips",
+    "supplements": [
+      "It's recommended to visit in the evening to enjoy beautiful sunsets and night views.",
+      "Bring a camera, the park and surrounding buildings are perfect for photos.",
+      "Respect local culture, keep quiet, and enjoy the peaceful atmosphere."
+    ]
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Parque Central de Granada",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Significance",
+        "content": "Parque Central de Granada is one of Granada's most important public spaces, long a gathering place for local residents and tourists, carrying the city's historical memory."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Landscape",
+        "content": "Surrounded by important colonial buildings like Granada Cathedral, it's an excellent place to experience Nicaraguan colonial culture and urban life."
+      },
+      {
+        "id": "experience",
+        "title": "Visiting Experience",
+        "content": "Strolling through Parque Central de Granada, feeling Granada's colonial atmosphere and locals' warmth, is an unforgettable cultural experience."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Parque Central de Granada",
+    "type": "Attraction Type",
+    "typeValue": "Urban Park",
+    "country": "Country",
+    "countryValue": "Nicaragua",
+    "city": "City",
+    "cityValue": "Granada Department, Nicaragua",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "Parque central, Ave Vega, Granada, Nicaragua",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "W2HW+XC Granada Nicaragua"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Park Area",
+    "outdoorTime": "Open 24 hours",
+    "lighthouse": "Best Time to Visit",
+    "summer": "Dry Season (November-April)",
+    "summerTime": "Pleasant weather, ideal for outdoor visits",
+    "winter": "Rainy Season (May-October)",
+    "winterTime": "Warm weather with afternoon rains, bring umbrella",
+    "warning": "Important Notes",
+    "warningTime": "Recommended to verify latest information before visiting",
+    "tip": "Evening visits offer beautiful night scenery and lighting"
+  },
+  "tickets": {
+    "title": "Ticket Information",
+    "outdoor": "Park Visit",
+    "outdoorPrice": "Free admission",
+    "lighthouse": "Guided Tours",
+    "adults": "On-site guide",
+    "adultsPrice": "Tips appreciated",
+    "students": "Cultural Experience",
+    "studentsPrice": "Many historical buildings and cultural attractions nearby",
+    "children": "Recommendations",
+    "childrenPrice": "Respect local culture and protect historical environment",
+    "card": "Additional Services",
+    "cardPrice": "Souvenirs available"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "Nearest airport: Augusto C. Sandino International Airport (MGA). From there, take a bus or taxi to Granada.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "The park is located in downtown Granada. Use navigation and check for parking nearby.",
+    "bus": "Public Transport",
+    "busDesc": "You can take public transport to Granada, then walk to the park.",
+    "intercity": "Walking Tour",
+    "intercityDesc": "The park is located in the city center, walkable to various attractions.",
+    "cycling": "Other Means",
+    "cyclingDesc": "Walking or cycling recommended, convenient transportation around the park.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Parque Central de Granada is an excellent place to experience Granada's urban scenery, evening visits recommended for night views."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "The Charm of Parque Central de Granada",
+    "captions": [
+      "Park panoramic view",
+      "Park scenery",
+      "Garden landscape",
+      "Park atmosphere",
+      "Fountain view",
+      "Walking trails",
+      "Colonial architecture",
+      "Park ambiance",
+      "Central plaza",
+      "Green space",
+      "Park culture",
+      "Full park view",
+      "Night lighting",
+      "Natural traces",
+      "Cultural heritage",
+      "Urban scenery",
+      "Park landscape",
+      "Historic buildings",
+      "Leisure space",
+      "Urban park",
+      "Granada style",
+      "Central park",
+      "Park at night",
+      "Street view",
+      "Colonial style"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "Carlos Rivera",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "A place full of historical charm. The atmosphere of the park is unforgettable, highly recommended for all tourists who love history."
+      },
+      {
+        "name": "María González",
+        "date": "3 weeks ago",
+        "rating": 5,
+        "text": "Amazing urban park. The surrounding colonial buildings are very spectacular. This is an important part of Granada's culture."
+      },
+      {
+        "name": "Juan Pérez",
+        "date": "1 month ago",
+        "rating": 4,
+        "text": "Very interesting place to experience real Granada culture. Evening visits recommended when the lighting is most beautiful."
+      },
+      {
+        "name": "Ana Torres",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "An important part of Granada's culture. The atmosphere of the park is moving, a must-visit place in Granada."
+      },
+      {
+        "name": "Roberto Silva",
+        "date": "2 years ago",
+        "rating": 4,
+        "text": "Great cultural experience. The historical buildings around the park are wonderful, and there are many cultural attractions nearby."
+      },
+      {
+        "name": "Sofía Méndez",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "Beautiful park, full of the charm of Nicaraguan culture. The colonial atmosphere is unforgettable, definitely worth a visit."
+      },
+      {
+        "name": "Miguel Herrera",
+        "date": "3 months ago",
+        "rating": 4,
+        "text": "Interesting cultural venue. Experience Granada's history up close, recommend respecting local culture."
+      },
+      {
+        "name": "Laura Vargas",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "Cultural gem of Granada. Central Park is an important place to understand Nicaraguan colonial culture, definitely worth experiencing."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Location & Map",
+    "subtitle": "W2HW+XC Granada Nicaragua",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Parque Central de Granada. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources",
+    "officialLinks": {
+      "migob": {
+        "name": "General Directorate of Migration and Aliens of Nicaragua",
+        "url": "https://www.migob.gob.ni/migracion/"
+      },
+      "intur": {
+        "name": "Nicaraguan Institute of Tourism",
+        "url": "https://www.intur.gob.ni/"
+      },
+      "mapanicaragua": {
+        "name": "Nicaragua National Tourism",
+        "url": "https://www.mapanicaragua.com/granada/"
+      },
+      "inc": {
+        "name": "Nicaraguan Institute of Culture - Cultural Heritage Department",
+        "url": "http://www.inc.gob.ni/"
+      },
+      "ineter": {
+        "name": "Nicaraguan Institute of Territorial Studies - Cadastre and Physical Jurisdiction Department",
+        "url": "https://www.ineter.gob.ni/"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "officialManagement": {
+    "title": "About Parque Central de Granada",
+    "text": "Parque Central de Granada is one of the most important public spaces in Granada, featuring beautiful gardens and rich historical and cultural value."
+  },
+  "historyTimeline": {
+    "title": "Historical Timeline",
+    "items": [
+      {
+        "year": "Colonial Period",
+        "title": "Colonial Period: Park Establishment",
+        "plaque": "Historical Landscape (Colonial Park)",
+        "description": "Parque Central de Granada was established during the colonial period and has long been a favorite gathering place for Granada residents."
+      },
+      {
+        "year": "19th-20th Century",
+        "title": "19th-20th Century: Urban Development",
+        "plaque": "Urban Development (Park Renovation)",
+        "description": "With the development of Granada city, the Central Park gradually became the cultural center of the city, with important buildings like the cathedral built around it."
+      },
+      {
+        "year": "21st Century",
+        "title": "21st Century: Cultural Tourism Destination",
+        "plaque": "Cultural Landmark (Tourism Center)",
+        "description": "In the 21st century, Parque Central de Granada attracts more and more visitors with its rich historical culture and beautiful scenery, becoming an important window to experience Nicaraguan cultural tourism."
+      }
+    ],
+    "guideTitle": "Visitor Guide Tip",
+    "guideContent": "When visiting, you can start from the **park's main entrance** to feel the colonial atmosphere; then enjoy the fountain and gardens at the **central plaza**; next, explore the **surrounding buildings** to feel Granada's colonial history; finally, rest on the **benches** to deeply understand the important position of these historical buildings in Nicaraguan culture."
+  }
+}

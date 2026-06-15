@@ -1,0 +1,383 @@
+{
+  "meta": {
+    "title": "Parque Central de Granada | Parque Central de Granada",
+    "description": "Explora el Parque Central de Granada en Granada, Nicaragua. Un hermoso parque urbano situado en el centro histórico, un lugar importante de reunión para locales y turistas."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Parque Central de Granada",
+    "subtitle": "Parque Central de Granada · Nicaragua",
+    "rating": "4.5",
+    "reviewCount": "8,408",
+    "hours": "Parque Urbano",
+    "openMaps": "Ver Ubicación"
+  },
+  "intro": {
+    "title": "Explora el Parque Central de Granada",
+    "description": "El Parque Central de Granada se encuentra en Granada, departamento de Granada, Nicaragua. Es el parque urbano más importante de Granada, situado en el centro histórico rodeado por la catedral y otros edificios coloniales, un lugar importante de reunión para locales y turistas.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "Parque abierto las 24 horas, visita en cualquier momento",
+        "Usa zapatos cómodos para caminar",
+        "Trae una cámara para capturar hermosas fotos del parque y los edificios circundantes",
+        "Las visitas nocturnas ofrecen hermosas luces y ambiente"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Centro histórico: Situado en el centro colonial de Granada, rodeado por importantes edificios históricos.",
+        "Lugar de reunión cultural: Importante lugar de reunión para locales y turistas, lleno de vitalidad.",
+        "Hermosos paisajes: El parque cuenta con hermosos jardines, fuentes y áreas de descanso.",
+        "Ubicación privilegiada: A poca distancia caminando de las principales atracciones de Granada."
+      ]
+    }
+  },
+  "route": {
+    "title": "Ruta de Visita",
+    "overview": "Descubre la ruta ideal para explorar el Parque Central de Granada y experimentar la esencia del parque urbano y la cultura colonial de Granada.",
+    "steps": [
+      "Comienza desde la entrada principal del parque y disfruta de la plaza central y la fuente.",
+      "Pasea por los senderos peatonales y admira los edificios coloniales circundantes.",
+      "Descansa en los bancos del parque y siente la vida diaria de los locales.",
+      "Regresa al parque en la noche para disfrutar de las hermosas luces nocturnas."
+    ],
+    "supplementsTitle": "Consejos Adicionales de Visita",
+    "supplements": [
+      "Se recomienda visitar en la tarde para disfrutar de hermosos atardeceres y vistas nocturnas.",
+      "Trae una cámara, el parque y los edificios circundantes son perfectos para fotos.",
+      "Respeta la cultura local, mantén silencio y disfruta del ambiente paz."
+    ]
+  },
+  "knowledge": {
+    "title": "Descubre el Encanto del Parque Central de Granada",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Importancia Histórica",
+        "content": "El Parque Central de Granada es uno de los espacios públicos más importantes de Granada, siendo un lugar de reunión para residentes locales y turistas durante mucho tiempo, llevando la memoria histórica de la ciudad."
+      },
+      {
+        "id": "culture",
+        "title": "Paisaje Cultural",
+        "content": "Rodeado por importantes edificios coloniales como la Catedral de Granada, es un lugar excelente para experimentar la cultura colonial nicaragüense y la vida urbana."
+      },
+      {
+        "id": "experience",
+        "title": "Experiencia de Visita",
+        "content": "Pasear por el Parque Central de Granada, sentir el ambiente colonial de Granada y la calidez de la gente local, es una experiencia cultural inolvidable."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información Básica",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Parque Central de Granada",
+    "type": "Tipo de atracción",
+    "typeValue": "Parque Urbano",
+    "country": "País",
+    "countryValue": "Nicaragua",
+    "city": "Ciudad",
+    "cityValue": "Departamento de Granada, Nicaragua",
+    "googleRating": "Calificación de Google",
+    "address": "Dirección",
+    "addressValue": "Parque central, Ave Vega, Granada, Nicaragua",
+    "plusCode": "Código Plus",
+    "plusCodeValue": "W2HW+XC Granada Nicaragua"
+  },
+  "hours": {
+    "title": "Horarios de Apertura",
+    "outdoor": "Área del Parque",
+    "outdoorTime": "Abierto las 24 horas",
+    "lighthouse": "Mejor Época para Visitar",
+    "summer": "Temporada Seca (noviembre-abril)",
+    "summerTime": "Clima más agradable, ideal para visitas al aire libre",
+    "winter": "Temporada de Lluvias (mayo-octubre)",
+    "winterTime": "Clima cálido con lluvias por la tarde, llevar paraguas",
+    "warning": "Notas Importantes",
+    "warningTime": "Se recomienda verificar la información más reciente antes de visitar",
+    "tip": "Las visitas nocturnas ofrecen hermosos paisajes nocturnos y iluminación"
+  },
+  "tickets": {
+    "title": "Información de Entradas",
+    "outdoor": "Visita al Parque",
+    "outdoorPrice": "Entrada gratuita",
+    "lighthouse": "Visitas Guiadas",
+    "adults": "Guía en el sitio",
+    "adultsPrice": "Propinas apreciadas",
+    "students": "Experiencia Cultural",
+    "studentsPrice": "Muchos edificios históricos y atracciones culturales cercanos",
+    "children": "Recomendaciones",
+    "childrenPrice": "Respetar la cultura local y proteger el ambiente histórico",
+    "card": "Servicios Adicionales",
+    "cardPrice": "Souvenirs disponibles"
+  },
+  "transport": {
+    "title": "Transporte",
+    "airport": "Desde el Aeropuerto",
+    "airportDesc": "Aeropuerto más cercano: Aeropuerto Internacional Augusto C. Sandino (MGA). Desde allí, toma un autobús o taxi a Granada.",
+    "selfDrive": "En Coche",
+    "selfDriveDesc": "El parque está ubicado en el centro de Granada. Usa navegación y busca estacionamiento cercano.",
+    "bus": "Transporte Público",
+    "busDesc": "Puedes tomar transporte público a Granada, luego caminar al parque.",
+    "intercity": "Tour a Pie",
+    "intercityDesc": "El parque está ubicado en el centro de la ciudad, caminable a varias atracciones.",
+    "cycling": "Otros Medios",
+    "cyclingDesc": "Se recomienda caminar o andar en bicicleta, transporte conveniente alrededor del parque.",
+    "tips": "Consejos de Viaje",
+    "tipsDesc": "El Parque Central de Granada es un excelente lugar para experimentar los paisajes urbanos de Granada, se recomiendan las visitas nocturnas para ver las luces."
+  },
+  "gallery": {
+    "title": "Fotos Impresionantes",
+    "subtitle": "El Encanto del Parque Central de Granada",
+    "captions": [
+      "Vista panorámica del parque",
+      "Paisaje del parque",
+      "Paisaje del jardín",
+      "Ambiente del parque",
+      "Vista de la fuente",
+      "Senderos para caminatas",
+      "Arquitectura colonial",
+      "Ambiente del parque",
+      "Plaza central",
+      "Espacio verde",
+      "Cultura del parque",
+      "Vista completa del parque",
+      "Iluminación nocturna",
+      "Rastros naturales",
+      "Patrimonio cultural",
+      "Paisaje urbano",
+      "Paisaje del parque",
+      "Edificios históricos",
+      "Espacio de ocio",
+      "Parque urbano",
+      "Estilo de Granada",
+      "Parque central",
+      "Parque de noche",
+      "Vista de la calle",
+      "Estilo colonial"
+    ],
+    "viewAll": "Ver más fotos en Google Maps",
+    "showAllPhotos": "Mostrar Todas las Fotos"
+  },
+  "reviews": {
+    "title": "Reseñas de Visitantes",
+    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver Más Reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Carlos Rivera",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "Un lugar lleno de encanto histórico. El ambiente del parque es inolvidable, muy recomendable para todos los turistas que aman la historia."
+      },
+      {
+        "name": "María González",
+        "date": "hace 3 semanas",
+        "rating": 5,
+        "text": "Parque urbano asombroso. Los edificios coloniales circundantes son muy espectaculares. Esta es una parte importante de la cultura de Granada."
+      },
+      {
+        "name": "Juan Pérez",
+        "date": "hace 1 mes",
+        "rating": 4,
+        "text": "Lugar muy interesante para acercarse a la verdadera cultura de Granada. Se recomiendan las visitas nocturnas cuando la iluminación es más hermosa."
+      },
+      {
+        "name": "Ana Torres",
+        "date": "hace más de 6 meses",
+        "rating": 5,
+        "text": "Una parte importante de la cultura de Granada. El ambiente del parque es conmovedor, un lugar imprescindible en Granada."
+      },
+      {
+        "name": "Roberto Silva",
+        "date": "hace 2 años",
+        "rating": 4,
+        "text": "Excelente experiencia cultural. Los edificios históricos alrededor del parque son maravillosos, y hay muchas atracciones culturales cercanas."
+      },
+      {
+        "name": "Sofía Méndez",
+        "date": "hace más de 6 meses",
+        "rating": 5,
+        "text": "Hermoso parque, lleno del encanto de la cultura nicaragüense. El ambiente colonial es inolvidable, definitivamente vale la pena visitarlo."
+      },
+      {
+        "name": "Miguel Herrera",
+        "date": "hace 3 meses",
+        "rating": 4,
+        "text": "Lugar cultural interesante. Experimento la historia de Granada de cerca, recomiendo respetar la cultura local."
+      },
+      {
+        "name": "Laura Vargas",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "Gema cultural de Granada. El Parque Central es un lugar importante para comprender la cultura colonial nicaragüense, definitivamente vale la pena experimentarlo."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación y Mapa",
+    "subtitle": "W2HW+XC Granada Nicaragua",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Parque Central de Granada. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos Oficiales",
+    "officialLinks": {
+      "migob": {
+        "name": "Dirección General de Migración y Extranjería de Nicaragua",
+        "url": "https://www.migob.gob.ni/migracion/"
+      },
+      "intur": {
+        "name": "Instituto Nicaragüense de Turismo",
+        "url": "https://www.intur.gob.ni/"
+      },
+      "mapanicaragua": {
+        "name": "Turismo Nacional de Nicaragua",
+        "url": "https://www.mapanicaragua.com/granada/"
+      },
+      "inc": {
+        "name": "Instituto Nicaragüense de Cultura - Departamento de Patrimonio Cultural",
+        "url": "http://www.inc.gob.ni/"
+      },
+      "ineter": {
+        "name": "Instituto Nicaragüense de Estudios Territoriales - Departamento de Catastro y Jurisdicción Física",
+        "url": "https://www.ineter.gob.ni/"
+      }
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Información que Recopilamos",
+        "content": "Solo recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Estos datos pueden incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, y cualquier información que proporcione voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "heading": "2. Cómo Utilizamos su Información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido del sitio web y la experiencia del usuario, analizar el tráfico y los patrones de uso, responder a solicitudes y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "heading": "3. Servicios de Terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para imágenes). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "heading": "4. Sus Derechos",
+        "content": "Bajo el Reglamento General de Protección de Datos (RGPD) y regulaciones relacionadas, usted tiene derecho a: acceder a sus datos personales, solicitar corrección o eliminación, oponerse al tratamiento y presentar una queja ante una autoridad de control."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de los Términos",
+        "content": "Al acceder y utilizar este sitio web, usted acepta estar sujeto a estos términos de servicio."
+      },
+      {
+        "heading": "2. Uso del Contenido",
+        "content": "Todo el contenido de este sitio web es solo para fines informativos. Somos un sitio web independiente de información turística de terceros, no afiliado con ningún atractivo turístico, agencia gubernamental u operador comercial."
+      },
+      {
+        "heading": "3. Exactitud de la Información",
+        "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar su integridad o exactitud. Los itinerarios, condiciones y servicios están sujetos a cambios sin previo aviso. Verifique siempre la información importante a través de canales oficiales antes de viajar."
+      },
+      {
+        "heading": "4. Propiedad Intelectual",
+        "content": "El diseño y el contenido original de este sitio web están protegidos por derechos de autor. Las imágenes provienen de Unsplash y se utilizan bajo licencia. El uso de datos de Google Maps cumple con los términos de servicio de Google."
+      },
+      {
+        "heading": "5. Limitación de Responsabilidad",
+        "content": "Este sitio web se proporciona \"tal como está\" sin ninguna garantía. No somos responsables de ninguna pérdida derivada del uso de la información en este sitio web, incluyendo, entre otros, las decisiones de viaje basadas en su contenido."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Última actualización: junio de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden deshabilitar.",
+      "badge": "Siempre Activo"
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a comprender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Activo",
+          "description": "Recopila información anónima sobre cómo los visitantes utilizan nuestro sitio web."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas publicitarias.",
+      "items": [
+        {
+          "name": "Anuncios Personalizados",
+          "status": "Inactivo",
+          "description": "Puede mostrarle anuncios relevantes basados en sus intereses."
+        }
+      ]
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Configuración guardada!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Preferencias del Usuario",
+          "status": "Activo",
+          "description": "Guarda sus preferencias de idioma y configuraciones del sitio web."
+        }
+      ],
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan sus configuraciones, como las preferencias de idioma y tema."
+    },
+    "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
+    "rejectAll": "Rechazar Todas"
+  },
+  "officialManagement": {
+    "title": "Acerca del Parque Central de Granada",
+    "text": "El Parque Central de Granada es uno de los espacios públicos más importantes de Granada, que cuenta con hermosos jardines y rico valor histórico y cultural."
+  },
+  "historyTimeline": {
+    "title": "Cronología Histórica",
+    "items": [
+      {
+        "year": "Período Colonial",
+        "title": "Período Colonial: Establecimiento del Parque",
+        "plaque": "Paisaje Histórico (Parque Colonial)",
+        "description": "El Parque Central de Granada fue establecido durante el período colonial y ha sido un lugar de reunión favorito para los residentes de Granada durante mucho tiempo."
+      },
+      {
+        "year": "Siglos XIX-XX",
+        "title": "Siglos XIX-XX: Desarrollo Urbano",
+        "plaque": "Desarrollo Urbano (Renovación del Parque)",
+        "description": "Con el desarrollo de la ciudad de Granada, el Parque Central se convirtió gradualmente en el centro cultural de la ciudad, con importantes edificios como la catedral construidos a su alrededor."
+      },
+      {
+        "year": "Siglo XXI",
+        "title": "Siglo XXI: Destino de Turismo Cultural",
+        "plaque": "Hito Cultural (Centro Turístico)",
+        "description": "En el siglo XXI, el Parque Central de Granada atrae a más y más visitantes con su rica cultura histórica y hermosos paisajes, convirtiéndose en una ventana importante para experimentar el turismo cultural de Nicaragua."
+      }
+    ],
+    "guideTitle": "Consejo de Guía para Visitantes",
+    "guideContent": "Al visitar, puedes comenzar desde la **entrada principal del parque** para sentir la atmósfera colonial; luego disfruta de la fuente y los jardines en la **plaza central**; a continuación, explora los **edificios circundantes** para sentir la historia colonial de Granada; finalmente, descansa en los **bancos** para comprender profundamente la importante posición de estos edificios históricos en la cultura nicaragüense."
+  }
+}
