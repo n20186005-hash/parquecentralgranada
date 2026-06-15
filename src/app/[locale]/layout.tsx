@@ -15,7 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://cerroverde.com';
+  const baseUrl = 'https://parquecentralgranada.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
@@ -47,7 +47,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Parque Natural Cerro Verde",
+      siteName: "Parque Central de Granada",
       locale: localeMap[locale] || 'zh_CN',
       type: 'website',
     },

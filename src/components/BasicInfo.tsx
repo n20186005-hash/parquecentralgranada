@@ -21,6 +21,7 @@ export default function BasicInfo() {
           <InfoCard title={t('officialName')} value={t('officialNameValue')} />
           <InfoCard title={t('type')} value={t('typeValue')} />
           <InfoCard title={t('country')} value={t('countryValue')} />
+          <InfoCard title={t('department')} value={t('departmentValue')} />
           <InfoCard title={t('city')} value={t('cityValue')} />
           <InfoCard title={t('plusCode')} value={t('plusCodeValue')} />
           <InfoCard title={t('googleRating')} value={`${tHero('rating')}/5 (${tHero('reviewCount')})`} />

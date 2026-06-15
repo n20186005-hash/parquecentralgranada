@@ -20,7 +20,7 @@
   },
   "intro": {
     "title": "Explora el Parque Central de Granada",
-    "description": "El Parque Central de Granada se encuentra en Granada, departamento de Granada, Nicaragua. Es el parque urbano más importante de Granada, situado en el centro histórico rodeado por la catedral y otros edificios coloniales, un lugar importante de reunión para locales y turistas.",
+    "description": "El Parque Central de Granada (también conocido como Plaza Mayor de Granada) se encuentra en Granada, departamento de Granada, Nicaragua. Es el parque urbano más importante de Granada, situado en el centro histórico rodeado por la catedral y otros edificios coloniales, un lugar importante de reunión para locales y turistas.",
     "visitGuide": {
       "title": "Consejos de Visita",
       "items": [
@@ -79,16 +79,18 @@
   "basicInfo": {
     "title": "Información Básica",
     "officialName": "Nombre Oficial",
-    "officialNameValue": "Parque Central de Granada",
+    "officialNameValue": "Parque Central de Granada (también conocido como Plaza Mayor de Granada)",
     "type": "Tipo de atracción",
     "typeValue": "Parque Urbano",
     "country": "País",
     "countryValue": "Nicaragua",
+    "department": "Departamento/Región",
+    "departmentValue": "Departamento de Granada",
     "city": "Ciudad",
-    "cityValue": "Departamento de Granada, Nicaragua",
+    "cityValue": "Granada",
     "googleRating": "Calificación de Google",
     "address": "Dirección",
-    "addressValue": "Parque central, Ave Vega, Granada, Nicaragua",
+    "addressValue": "Parque central, Ave Vega, Granada, Nicaragua (https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6)",
     "plusCode": "Código Plus",
     "plusCodeValue": "W2HW+XC Granada Nicaragua"
   },
@@ -122,13 +124,13 @@
   "transport": {
     "title": "Transporte",
     "airport": "Desde el Aeropuerto",
-    "airportDesc": "Aeropuerto más cercano: Aeropuerto Internacional Augusto C. Sandino (MGA). Desde allí, toma un autobús o taxi a Granada.",
+    "airportDesc": "Aeropuerto más cercano: Aeropuerto Internacional Augusto C. Sandino (MGA). Desde allí, toma un autobús o taxi a Granada (aproximadamente 40-50 minutos en coche).",
     "selfDrive": "En Coche",
-    "selfDriveDesc": "El parque está ubicado en el centro de Granada. Usa navegación y busca estacionamiento cercano.",
+    "selfDriveDesc": "El parque está ubicado en el centro de Granada. Usa navegación (https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6) y busca estacionamiento cercano.",
     "bus": "Transporte Público",
-    "busDesc": "Puedes tomar transporte público a Granada, luego caminar al parque.",
+    "busDesc": "Puedes tomar transporte público hasta la estación de autobuses de Granada, luego caminar hacia el este durante unos 10-15 minutos para llegar al parque.",
     "intercity": "Tour a Pie",
-    "intercityDesc": "El parque está ubicado en el centro de la ciudad, caminable a varias atracciones.",
+    "intercityDesc": "El parque está ubicado en el centro de la ciudad. Si ya estás en el casco antiguo de Granada, puedes caminar directamente allí. Las atracciones circundantes están a 5-10 minutos a pie.",
     "cycling": "Otros Medios",
     "cyclingDesc": "Se recomienda caminar o andar en bicicleta, transporte conveniente alrededor del parque.",
     "tips": "Consejos de Viaje",
@@ -353,7 +355,7 @@
   },
   "officialManagement": {
     "title": "Acerca del Parque Central de Granada",
-    "text": "El Parque Central de Granada es uno de los espacios públicos más importantes de Granada, que cuenta con hermosos jardines y rico valor histórico y cultural."
+    "text": "El Parque Central de Granada es uno de los espacios públicos más importantes de Granada, administrado por la Alcaldía de Granada, que cuenta con hermosos jardines y rico valor histórico y cultural."
   },
   "historyTimeline": {
     "title": "Cronología Histórica",

@@ -20,7 +20,7 @@
   },
   "intro": {
     "title": "Explore Parque Central de Granada",
-    "description": "Parque Central de Granada is located in Granada, Granada Department, Nicaragua. It is the most important urban park in Granada, situated in the historic center surrounded by the cathedral and other colonial buildings, an important gathering place for locals and tourists.",
+    "description": "Parque Central de Granada (also known as Plaza Mayor de Granada) is located in Granada, Granada Department, Nicaragua. It is the most important urban park in Granada, situated in the historic center surrounded by the cathedral and other colonial buildings, an important gathering place for locals and tourists.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -79,16 +79,18 @@
   "basicInfo": {
     "title": "Basic Information",
     "officialName": "Official Name",
-    "officialNameValue": "Parque Central de Granada",
+    "officialNameValue": "Parque Central de Granada (also known as Plaza Mayor de Granada)",
     "type": "Attraction Type",
     "typeValue": "Urban Park",
     "country": "Country",
     "countryValue": "Nicaragua",
+    "department": "Department/Region",
+    "departmentValue": "Granada Department",
     "city": "City",
-    "cityValue": "Granada Department, Nicaragua",
+    "cityValue": "Granada",
     "googleRating": "Google Rating",
     "address": "Address",
-    "addressValue": "Parque central, Ave Vega, Granada, Nicaragua",
+    "addressValue": "Parque central, Ave Vega, Granada, Nicaragua (https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6)",
     "plusCode": "Plus Code",
     "plusCodeValue": "W2HW+XC Granada Nicaragua"
   },
@@ -122,13 +124,13 @@
   "transport": {
     "title": "Transportation",
     "airport": "From the Airport",
-    "airportDesc": "Nearest airport: Augusto C. Sandino International Airport (MGA). From there, take a bus or taxi to Granada.",
+    "airportDesc": "Nearest airport: Augusto C. Sandino International Airport (MGA). From there, take a bus or taxi to Granada (about 40-50 minutes drive).",
     "selfDrive": "Driving",
-    "selfDriveDesc": "The park is located in downtown Granada. Use navigation and check for parking nearby.",
+    "selfDriveDesc": "The park is located in downtown Granada. Use navigation (https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6) and check for parking nearby.",
     "bus": "Public Transport",
-    "busDesc": "You can take public transport to Granada, then walk to the park.",
+    "busDesc": "You can take public transport to the Granada bus station, then walk east for about 10-15 minutes to reach the park.",
     "intercity": "Walking Tour",
-    "intercityDesc": "The park is located in the city center, walkable to various attractions.",
+    "intercityDesc": "The park is located in the city center. If you are already in the old town of Granada, you can walk directly there. Surrounding attractions are within a 5-10 minute walk.",
     "cycling": "Other Means",
     "cyclingDesc": "Walking or cycling recommended, convenient transportation around the park.",
     "tips": "Travel Tips",
@@ -353,7 +355,7 @@
   },
   "officialManagement": {
     "title": "About Parque Central de Granada",
-    "text": "Parque Central de Granada is one of the most important public spaces in Granada, featuring beautiful gardens and rich historical and cultural value."
+    "text": "Parque Central de Granada is one of the most important public spaces in Granada, managed by the Municipality of Granada (Alcaldía de Granada), featuring beautiful gardens and rich historical and cultural value."
   },
   "historyTimeline": {
     "title": "Historical Timeline",

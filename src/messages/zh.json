@@ -20,7 +20,7 @@
   },
   "intro": {
     "title": "探索格拉纳达中央公园",
-    "description": "Parque Central de Granada（格拉纳达中央公园）位于尼加拉瓜格拉纳达省格拉纳达市。这是格拉纳达最重要的城市公园，坐落在历史悠久的市中心，周围环绕着大教堂和其他殖民时期建筑，是当地人和游客的重要聚集地。",
+    "description": "Parque Central de Granada（格拉纳达中央公园，又称 Plaza Mayor de Granada）位于尼加拉瓜格拉纳达省格拉纳达市。这是格拉纳达最重要的城市公园，坐落在历史悠久的市中心，周围环绕着大教堂和其他殖民时期建筑，是当地人和游客的重要聚集地。",
     "visitGuide": {
       "title": "游览建议",
       "items": [
@@ -79,16 +79,18 @@
   "basicInfo": {
     "title": "基础信息",
     "officialName": "正式名称",
-    "officialNameValue": "Parque Central de Granada（格拉纳达中央公园）",
+    "officialNameValue": "Parque Central de Granada（格拉纳达中央公园，又称 Plaza Mayor de Granada）",
     "type": "景点类型",
     "typeValue": "城市公园",
     "country": "国家",
     "countryValue": "尼加拉瓜",
+    "department": "省份/地区",
+    "departmentValue": "格拉纳达省 (Granada Department)",
     "city": "城市",
-    "cityValue": "格拉纳达省, 尼加拉瓜",
+    "cityValue": "格拉纳达市 (Granada)",
     "googleRating": "谷歌评分",
     "address": "地址",
-    "addressValue": "Parque central, Ave Vega, Granada, 尼加拉瓜",
+    "addressValue": "Parque central, Ave Vega, Granada, 尼加拉瓜 (https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6)",
     "plusCode": "Plus 代码",
     "plusCodeValue": "W2HW+XC 格拉纳达 尼加拉瓜"
   },
@@ -122,13 +124,13 @@
   "transport": {
     "title": "交通方式",
     "airport": "从机场出发",
-    "airportDesc": "最近机场：奥古斯托·塞萨尔·桑地诺国际机场 (MGA)。从那里可以乘坐公交或出租车前往格拉纳达。",
+    "airportDesc": "最近机场：奥古斯托·塞萨尔·桑地诺国际机场 (MGA)。从那里可以乘坐公交或出租车前往格拉纳达（约 40-50 分钟车程）。",
     "selfDrive": "自驾前往",
-    "selfDriveDesc": "公园位于格拉纳达市中心，建议使用导航前往。周边有停车场。",
+    "selfDriveDesc": "公园位于格拉纳达市中心，建议使用导航前往（https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6）。周边有停车场。",
     "bus": "公共交通",
-    "busDesc": "可乘坐公共交通前往格拉纳达，然后步行到达公园。",
+    "busDesc": "可乘坐公共交通到达格拉纳达巴士站，然后向东步行约10-15分钟即可到达公园。",
     "intercity": "步行游览",
-    "intercityDesc": "公园位于市中心，可步行游览各个景点。",
+    "intercityDesc": "公园位于市中心，如果已经在格拉纳达老城区，可直接步行前往。周边景点均在5-10分钟步行范围内。",
     "cycling": "其他方式",
     "cyclingDesc": "建议使用步行或自行车，公园周边交通便利。",
     "tips": "出行建议",
@@ -353,7 +355,7 @@
   },
   "officialManagement": {
     "title": "关于 Parque Central de Granada",
-    "text": "Parque Central de Granada 是格拉纳达最重要的公共空间之一，拥有美丽的花园和丰富的历史文化价值。"
+    "text": "Parque Central de Granada 是格拉纳达最重要的公共空间之一，受格拉纳达市政府（Alcaldía de Granada）管理，拥有美丽的花园和丰富的历史文化价值。"
   },
   "historyTimeline": {
     "title": "历史变迁时间线",
