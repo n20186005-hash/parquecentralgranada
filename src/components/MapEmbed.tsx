@@ -3,6 +3,8 @@ import { useTranslations } from 'next-intl';
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
   const mapsUrl = "https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6";
+  const embedSrc =
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6938.115007525682!2d-85.9539309!3d11.9299331!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f740c94c3cc6847%3A0xe586517c43c60c56!2sParque%20Central%20de%20Granada!5e1!3m2!1szh-CN!2s!4v1788917955938!5m2!1szh-CN!2s";
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -21,19 +23,15 @@ export default function MapEmbed() {
           className="map-container relative rounded-xl overflow-hidden"
           style={{ border: '1px solid var(--map-border)' }}
         >
-          {/*
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
           <iframe
-            src="https://maps.google.com/maps?q=Parque+Central+de+Granada,+Nicaragua&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src={embedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Parque Central de Granada"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - Parque Central de Granada, Granada, Nicaragua"
           />
         </div>
 
@@ -56,6 +54,20 @@ export default function MapEmbed() {
               <polyline points="15 3 21 3 21 9" />
               <line x1="10" y1="14" x2="21" y2="3" />
             </svg>
+          </a>
+        </div>
+
+        {/* Authoritative source */}
+        <div className="mt-6 flex items-center justify-center gap-2 text-sm" style={{ color: 'var(--text-muted)' }}>
+          <span>{t('authorityText')}</span>
+          <a
+            href={t('authorityLink')}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline font-medium"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('authorityLabel')}
           </a>
         </div>
       </div>

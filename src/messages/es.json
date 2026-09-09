@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Parque Central de Granada | Parque Central de Granada",
-    "description": "Explora el Parque Central de Granada en Granada, Nicaragua. Un hermoso parque urbano situado en el centro histórico, un lugar importante de reunión para locales y turistas."
+    "title": "Parque Central de Granada, Nicaragua: Guía, Fotos y Qué Hacer",
+    "description": "Descubre el Parque Central de Granada en Nicaragua (Plaza Mayor). Encuentra ubicación exacta, cómo llegar, historia, fotos y atracciones cercanas. ¡Planifica tu visita!"
   },
   "header": {
     "home": "Inicio",
@@ -12,15 +12,23 @@
   },
   "hero": {
     "title": "Parque Central de Granada",
-    "subtitle": "Parque Central de Granada · Nicaragua",
+    "subtitle": "Parque urbano en el centro histórico de Granada, Nicaragua · Gratis y abierto 24 horas",
     "rating": "4.5",
-    "reviewCount": "8,408",
-    "hours": "Parque Urbano",
-    "openMaps": "Ver Ubicación"
+    "reviewCount": "8,493",
+    "hours": "Abierto 24 horas",
+    "openMaps": "Cómo Llegar (Google Maps)",
+    "imgAlt": "Parque Central de Granada - Vista principal en Granada, Nicaragua",
+    "call": "Llamar: +505 8565 3285"
   },
   "intro": {
     "title": "Explora el Parque Central de Granada",
-    "description": "El Parque Central de Granada (también conocido como Plaza Mayor de Granada) se encuentra en Granada, departamento de Granada, Nicaragua. Es el parque urbano más importante de Granada, situado en el centro histórico rodeado por la catedral y otros edificios coloniales, un lugar importante de reunión para locales y turistas.",
+    "description": "El Parque Central de Granada (también conocido como Plaza Mayor de Granada) es el parque urbano en el corazón del centro histórico de Granada, departamento de Granada, Nicaragua. Rodeado de hitos coloniales como la Catedral de Granada, es un punto de encuentro principal para locales y viajeros. Al visitarlo, también se pueden explorar fácilmente los monumentos y sitios cercanos, como la Catedral de Granada y la calle peatonal La Calzada.",
+    "hierarchy": [
+      "Parque Central de Granada",
+      "Granada",
+      "Departamento de Granada",
+      "Nicaragua"
+    ],
     "visitGuide": {
       "title": "Consejos de Visita",
       "items": [
@@ -38,6 +46,15 @@
         "Hermosos paisajes: El parque cuenta con hermosos jardines, fuentes y áreas de descanso.",
         "Ubicación privilegiada: A poca distancia caminando de las principales atracciones de Granada."
       ]
+    },
+    "mustDo": {
+      "title": "Qué Hacer en el Parque Central de Granada",
+      "items": [
+        "Probar el Vigorón: este platillo clásico nicaragülense (yuca, chicharrón y ensalada) se sirve en los kioscos alrededor de la plaza.",
+        "Pasear en coche de caballos por las calles del centro histórico, saliendo desde la Plaza Mayor.",
+        "Admirar la Catedral de Granada: su imponente fachada domina la plaza principal y luce espectacular al atardecer.",
+        "Comprar artesanías y recuerdos en los kioscos locales de la plaza."
+      ]
     }
   },
   "route": {
@@ -53,7 +70,7 @@
     "supplements": [
       "Se recomienda visitar en la tarde para disfrutar de hermosos atardeceres y vistas nocturnas.",
       "Trae una cámara, el parque y los edificios circundantes son perfectos para fotos.",
-      "Respeta la cultura local, mantén silencio y disfruta del ambiente paz."
+      "Respeta la cultura local, mantén silencio y disfruta del ambiente tranquilo."
     ]
   },
   "knowledge": {
@@ -89,8 +106,12 @@
     "city": "Ciudad",
     "cityValue": "Granada",
     "googleRating": "Calificación de Google",
+    "phone": "Teléfono",
+    "phoneValue": "+505 8565 3285",
+    "coordinates": "Coordenadas",
+    "coordinatesValue": "11.9299, -85.9539",
     "address": "Dirección",
-    "addressValue": "Parque central, Ave Vega, Granada, Nicaragua",
+    "addressValue": "Gasolinera UNO, Ave Vega, Granada, Nicaragua",
     "plusCode": "Código Plus",
     "plusCodeValue": "W2HW+XC Granada Nicaragua"
   },
@@ -120,23 +141,26 @@
     "childrenPrice": "Respetar la cultura local y proteger el ambiente histórico"
   },
   "transport": {
-    "title": "Transporte",
+    "title": "¿Cómo llegar al Parque Central de Granada, Nicaragua?",
     "airport": "Desde el Aeropuerto",
     "airportDesc": "Aeropuerto más cercano: Aeropuerto Internacional Augusto C. Sandino (MGA). Desde allí, toma un autobús o taxi a Granada (aproximadamente 40-50 minutos en coche).",
     "selfDrive": "En Coche",
     "selfDriveDesc": "El parque está ubicado en el centro de Granada. Usa navegación (https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6) y busca estacionamiento cercano.",
     "bus": "Transporte Público",
-    "busDesc": "Puedes tomar transporte público hasta la estación de autobuses de Granada, luego caminar hacia el este durante unos 10-15 minutos para llegar al parque.",
+    "busDesc": "Puedes tomar transporte público hasta la estación de autobuses de Granada, luego caminar hacia el este durante unos 10-15 minutos para llegar al parque. Desde Managua también hay autobuses directos a Granada (aprox. 45-60 minutos).",
     "intercity": "Tour a Pie",
     "intercityDesc": "El parque está ubicado en el centro de la ciudad. Si ya estás en el casco antiguo de Granada, puedes caminar directamente allí. Las atracciones circundantes están a 5-10 minutos a pie.",
     "cycling": "Otros Medios",
     "cyclingDesc": "Se recomienda caminar o andar en bicicleta, transporte conveniente alrededor del parque.",
     "tips": "Consejos de Viaje",
-    "tipsDesc": "El Parque Central de Granada es un excelente lugar para experimentar los paisajes urbanos de Granada, se recomiendan las visitas nocturnas para ver las luces."
+    "tipsDesc": "El Parque Central de Granada es un excelente lugar para experimentar los paisajes urbanos de Granada, se recomiendan las visitas nocturnas para ver las luces. El parque se encuentra frente a la Gasolinera UNO, en la Ave Vega.",
+    "taxi": "En Taxi",
+    "taxiDesc": "Desde Managua o el aeropuerto MGA puedes tomar un taxi directo hasta Granada (aprox. 40-50 min). El parque está frente a la Gasolinera UNO, en la Ave Vega, en pleno centro histórico."
   },
   "gallery": {
     "title": "Fotos Impresionantes",
     "subtitle": "El Encanto del Parque Central de Granada",
+    "altPrefix": "Parque Central de Granada",
     "captions": [
       "Vista panorámica del parque",
       "Paisaje del parque",
@@ -165,7 +189,11 @@
       "Estilo colonial"
     ],
     "viewAll": "Ver más fotos en Google Maps",
-    "showAllPhotos": "Mostrar Todas las Fotos"
+    "showAllPhotos": "Mostrar Todas las Fotos",
+    "highlightAlts": [
+      "Catedral y Parque Central de Granada Nicaragua",
+      "Kioscos artesanales en el Parque Central de Granada"
+    ]
   },
   "reviews": {
     "title": "Reseñas de Visitantes",
@@ -222,10 +250,83 @@
       }
     ]
   },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Preguntas frecuentes sobre el Parque Central de Granada",
+    "items": [
+      {
+        "q": "¿Dónde se encuentra el Parque Central de Granada?",
+        "a": "Está en la Plaza Mayor, en el centro histórico de Granada, departamento de Granada, Nicaragua, en la Ave Vega (junto a la Gasolinera UNO), justo frente a la Catedral de Granada."
+      },
+      {
+        "q": "¿La entrada es gratuita? ¿Cuál es el horario?",
+        "a": "Sí. Al ser una plaza y parque urbano público, el Parque Central de Granada es de entrada gratuita y permanece abierto las 24 horas, todos los días del año."
+      },
+      {
+        "q": "¿Cuál es la mejor época para visitarlo?",
+        "a": "La temporada seca (noviembre–abril) ofrece el mejor clima. Las mañanas son más frescas, mientras que al atardecer y por la noche el ambiente es ideal cuando se encienden las luces de la plaza. En la temporada de lluvias (mayo–octubre) son comunes los aguaceros de la tarde, así que lleva un paraguas."
+      },
+      {
+        "q": "¿Cómo llego desde Managua o el aeropuerto?",
+        "a": "El aeropuerto más cercano es el Internacional Augusto C. Sandino (MGA) en Managua, a unos 40–50 minutos en coche. El parque está en el centro de Granada, a unos 10–15 minutos a pie de la terminal de autobuses; también hay taxis y Uber disponibles."
+      },
+      {
+        "q": "¿Hay estacionamiento cerca del parque?",
+        "a": "El parque está en un barrio colonial mayormente peatonal, con pocos espacios de estacionamiento en la calle y algunos estacionamientos privados. La mayoría de los visitantes camina o llega al borde del casco antiguo y continúa a pie."
+      },
+      {
+        "q": "¿Qué atracciones hay cerca del parque?",
+        "a": "El parque está junto a la Catedral de Granada. A poca distancia a pie se encuentran la calle peatonal La Calzada, la Iglesia de La Merced, el Convento y Museo San Francisco, y el paseo junto al Lago de Nicaragua con los embarcaderos hacia las isletas."
+      },
+      {
+        "q": "¿Hay algún consejo o recomendación para la visita?",
+        "a": "Respeta la cultura local y los lugares de culto, cuida tus pertenencias y usa protección solar y agua durante el día. Por la noche, mantente en zonas bien iluminadas y viaja en grupo. Los paseos en coche de caballos y los artistas callejeros animan la plaza."
+      },
+      {
+        "q": "¿Qué se puede hacer en el parque?",
+        "a": "Pasear entre fuentes y jardines, descansar en bancos o en el quiosco, observar la vida cotidiana, admirar las fachadas coloniales alrededor de la plaza, tomar fotos, disfrutar de un café o helado cercano, o usarlo como punto de partida para recorrer la Granada antigua."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Fuentes y Referencias",
+    "subtitle": "La información de esta página se recopila de los siguientes canales oficiales y autorizados; los horarios, servicios e instalaciones pueden cambiar, así que confirma los detalles más recientes con fuentes oficiales antes de viajar.",
+    "items": [
+      {
+        "name": "Instituto Nicaragüense de Turismo (INTUR)",
+        "type": "Instituto oficial de turismo de Nicaragua",
+        "url": "https://www.intur.gob.ni/"
+      },
+      {
+        "name": "Instituto Nicaragüense de Cultura (INC)",
+        "type": "Instituto Nicaragüense de Cultura",
+        "url": "http://www.inc.gob.ni/"
+      },
+      {
+        "name": "Instituto Nicaragüense de Estudios Territoriales (INETER)",
+        "type": "Instituto Nicaragüense de Estudios Territoriales",
+        "url": "https://www.ineter.gob.ni/"
+      },
+      {
+        "name": "Mapa Nicaragua - Granada",
+        "type": "Guía de referencia turística de Nicaragua",
+        "url": "https://www.mapanicaragua.com/granada/"
+      },
+      {
+        "name": "Google Maps - Parque Central de Granada",
+        "type": "Información de ubicación y calificaciones",
+        "url": "https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6"
+      }
+    ],
+    "lastUpdated": "Contenido actualizado por última vez: 9 de septiembre de 2026"
+  },
   "mapSection": {
     "title": "Ubicación y Mapa",
     "subtitle": "W2HW+XC Granada Nicaragua",
-    "openMaps": "Ver en Google Maps"
+    "openMaps": "Ver en Google Maps",
+    "authorityText": "Para información oficial y actualizada sobre turismo regional, visita",
+    "authorityLink": "https://www.intur.gob.ni/",
+    "authorityLabel": "Instituto Nicaragüense de Turismo (INTUR)"
   },
   "footer": {
     "rights": "© 2026 Parque Central de Granada. Todos los derechos reservados.",
@@ -255,11 +356,12 @@
         "url": "https://www.ineter.gob.ni/"
       }
     },
-    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales.",
+    "photoCredit": "Todas las fotografías mostradas en este sitio web pertenecen a sus autores originales; todos los derechos de propiedad y créditos corresponden a ellos."
   },
   "privacy": {
     "title": "Política de Privacidad",
-    "lastUpdated": "Última actualización: junio de 2026",
+    "lastUpdated": "Última actualización: septiembre de 2026",
     "sections": [
       {
         "heading": "1. Información que Recopilamos",
@@ -281,7 +383,7 @@
   },
   "terms": {
     "title": "Términos de Servicio",
-    "lastUpdated": "Última actualización: junio de 2026",
+    "lastUpdated": "Última actualización: septiembre de 2026",
     "sections": [
       {
         "heading": "1. Aceptación de los Términos",
@@ -307,7 +409,7 @@
   },
   "cookieSettings": {
     "title": "Configuración de Cookies",
-    "description": "Última actualización: junio de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "description": "Última actualización: septiembre de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
     "essential": {
       "title": "Cookies Esenciales",
       "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden deshabilitar.",

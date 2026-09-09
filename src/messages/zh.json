@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "格拉纳达中央公园 | Parque Central de Granada",
-    "description": "探索尼加拉瓜格拉纳达的 Parque Central de Granada（格拉纳达中央公园）。这是一个美丽的城市公园，位于格拉纳达历史中心，是当地人和游客的重要聚集地。"
+    "title": "格拉纳达中央公园（Parque Central de Granada）- 游览指南与位置",
+    "description": "探索尼加拉瓜格拉纳达的 Parque Central de Granada（Plaza Mayor de Granada）城市公园：免费全天开放、地图位置、最佳游览时间，以及周边格拉纳达大教堂与 La Calzada 步行街等景点资讯。"
   },
   "header": {
     "home": "首页",
@@ -12,15 +12,23 @@
   },
   "hero": {
     "title": "Parque Central de Granada",
-    "subtitle": "格拉纳达中央公园 · 尼加拉瓜",
+    "subtitle": "格拉纳达中央公园 · 尼加拉瓜格拉纳达历史中心 · 全天免费开放",
     "rating": "4.5",
-    "reviewCount": "8,408",
-    "hours": "城市公园",
-    "openMaps": "查看位置"
+    "reviewCount": "8,493",
+    "hours": "全天开放 · 24 小时",
+    "openMaps": "查看位置",
+    "imgAlt": "Parque Central de Granada（格拉纳达中央公园）- 尼加拉瓜格拉纳达全景",
+    "call": "致电：+505 8565 3285"
   },
   "intro": {
-    "title": "探索格拉纳达中央公园",
-    "description": "Parque Central de Granada（格拉纳达中央公园，又称 Plaza Mayor de Granada）位于尼加拉瓜格拉纳达省格拉纳达市。这是格拉纳达最重要的城市公园，坐落在历史悠久的市中心，周围环绕着大教堂和其他殖民时期建筑，是当地人和游客的重要聚集地。",
+    "title": "探索 Parque Central de Granada（格拉纳达中央公园）",
+    "description": "Parque Central de Granada（格拉纳达中央公园，又称 Plaza Mayor de Granada）是位于尼加拉瓜格拉纳达市（Granada, Departamento de Granada）历史中心的城市公园。它坐落在市中心，周围环绕着格拉纳达大教堂等殖民时期建筑，是当地人和游客的重要聚集地。从公园出发，可轻松步行抵达周边的格拉纳达大教堂（Catedral de Granada）、La Calzada 步行街等历史地标与景点。",
+    "hierarchy": [
+      "Parque Central de Granada（格拉纳达中央公园）",
+      "格拉纳达市（Granada）",
+      "格拉纳达省（Departamento de Granada）",
+      "尼加拉瓜"
+    ],
     "visitGuide": {
       "title": "游览建议",
       "items": [
@@ -37,6 +45,15 @@
         "文化聚集地：是当地人和游客的重要聚集场所，充满活力。",
         "美丽景观：公园内有美丽的花园、喷泉和休息区。",
         "优越位置：步行可到达格拉纳达的主要景点。"
+      ]
+    },
+    "mustDo": {
+      "title": "格拉纳达中央公园必体验",
+      "items": [
+        "品尝 Vigorón：这道尼加拉瓜经典小吃（木薯、炸猪皮和卷心菜沙拉）在广场四周的小吃摊有售。",
+        "乘坐马车游览历史老城街巷，从 Plaza Mayor 出发。",
+        "侩估格拉纳达大教堂：其宏伟的立面俯瞰主广场，在傍晚光线下格外壮观。",
+        "在广场周围的小锊购买工艺品和纪念品。"
       ]
     }
   },
@@ -89,8 +106,12 @@
     "city": "城市",
     "cityValue": "格拉纳达市 (Granada)",
     "googleRating": "谷歌评分",
+    "phone": "电话",
+    "phoneValue": "+505 8565 3285",
+    "coordinates": "经纬度",
+    "coordinatesValue": "11.9299, -85.9539",
     "address": "地址",
-    "addressValue": "Parque central, Ave Vega, Granada, 尼加拉瓜",
+    "addressValue": "Gasolinera UNO, Ave Vega, Granada, Nicaragua",
     "plusCode": "Plus 代码",
     "plusCodeValue": "W2HW+XC 格拉纳达 尼加拉瓜"
   },
@@ -120,23 +141,26 @@
     "childrenPrice": "尊重当地文化，保护历史环境"
   },
   "transport": {
-    "title": "交通方式",
+    "title": "如何前往尼加拉瓜格拉纳达中央公园？",
     "airport": "从机场出发",
     "airportDesc": "最近机场：奥古斯托·塞萨尔·桑地诺国际机场 (MGA)。从那里可以乘坐公交或出租车前往格拉纳达（约 40-50 分钟车程）。",
     "selfDrive": "自驾前往",
     "selfDriveDesc": "公园位于格拉纳达市中心，建议使用导航前往（https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6）。周边有停车场。",
     "bus": "公共交通",
-    "busDesc": "可乘坐公共交通到达格拉纳达巴士站，然后向东步行约10-15分钟即可到达公园。",
+    "busDesc": "可乘坐公共交通到达格拉纳达巴士站，然后向东步行约10-15分钟即可到达公园。 从马那瓜也有直达格拉纳达的班车（约 45-60 分钟）。",
     "intercity": "步行游览",
     "intercityDesc": "公园位于市中心，如果已经在格拉纳达老城区，可直接步行前往。周边景点均在5-10分钟步行范围内。",
     "cycling": "其他方式",
     "cyclingDesc": "建议使用步行或自行车，公园周边交通便利。",
     "tips": "出行建议",
-    "tipsDesc": "Parque Central de Granada 是体验格拉纳达城市风光的绝佳场所，建议晚上前往欣赏夜景。"
+    "tipsDesc": "Parque Central de Granada 是体验格拉纳达城市风光的绝佳场所，建议晚上前往欣赏夜景。 公园位于 Ave Vega 的 Gasolinera UNO 加油站对面。",
+    "taxi": "乘出租车",
+    "taxiDesc": "从马那瓜或奥古斯托·C·桑地诺国际机场（MGA）可直接乘出租车到达格拉纳达（约 40-50 分钟）。公园位于 Ave Vega 的 Gasolinera UNO 加油站对面，在历史中心内。"
   },
   "gallery": {
     "title": "精彩照片",
     "subtitle": "格拉纳达中央公园的魅力风光",
+    "altPrefix": "Parque Central de Granada（格拉纳达中央公园）",
     "captions": [
       "公园全景",
       "公园风光",
@@ -165,7 +189,11 @@
       "殖民风格"
     ],
     "viewAll": "在 Google Maps 查看更多照片",
-    "showAllPhotos": "显示全部照片"
+    "showAllPhotos": "显示全部照片",
+    "highlightAlts": [
+      "尼加拉瓜格拉纳达中央公园与格拉纳达大教堂",
+      "格拉纳达中央公园的工艺品小亭"
+    ]
   },
   "reviews": {
     "title": "游客评价",
@@ -222,10 +250,83 @@
       }
     ]
   },
+  "faq": {
+    "title": "常见问题（FAQ）",
+    "subtitle": "关于 Parque Central de Granada（格拉纳达中央公园）的常见问题",
+    "items": [
+      {
+        "q": "Parque Central de Granada 位于哪里？",
+        "a": "它位于尼加拉瓜格拉纳达省（Departamento de Granada）格拉纳达市历史中心的 Plaza Mayor（中央广场），地址为 Ave Vega（Gasolinera UNO 旁），正对格拉纳达大教堂。"
+      },
+      {
+        "q": "公园需要门票吗？开放时间是？",
+        "a": "完全免费。作为公共城市广场与公园，Parque Central de Granada 全年每天 24 小时开放，随时可以进入。"
+      },
+      {
+        "q": "什么时候参观最好？",
+        "a": "旱季（11 月至次年 4 月）天气最宜人；清晨较为凉爽，傍晚与夜间灯光亮起时氛围最佳。雨季（5-10 月）常有午后阵雨，建议携带雨伞并留意天气。"
+      },
+      {
+        "q": "如何从马那瓜或机场前往？",
+        "a": "最近机场是马那瓜的奥古斯托·塞萨尔·桑地诺国际机场（MGA），乘车约 40-50 分钟。公园就在格拉纳达市中心，从长途汽车站步行约 10-15 分钟可达，也可乘坐出租车或 Uber。"
+      },
+      {
+        "q": "公园附近方便停车吗？",
+        "a": "公园位于以步行为主的殖民老城，周边街道车位有限，另有少量私人停车场；多数游客会选择步行或在老城边缘下车后步行进入。"
+      },
+      {
+        "q": "公园周边有哪些值得一去的景点？",
+        "a": "公园紧邻格拉纳达大教堂；步行可达 La Calzada 步行街、La Merced 教堂、圣弗朗西斯科修道院与博物馆，以及尼加拉瓜湖（Lago de Nicaragua）湖滨与岛屿游船码头。"
+      },
+      {
+        "q": "游览时有哪些建议或注意事项？",
+        "a": "请尊重当地文化与宗教场所；保管好随身物品；白天注意防晒补水，夜间建议结伴并选择灯光明亮区域。广场上常有马车巡游与街头艺人表演。"
+      },
+      {
+        "q": "在公园里可以做些什么？",
+        "a": "可以在喷泉与花园间散步、在长椅或凉亭休息观景、欣赏广场四周的殖民建筑立面并拍照，也可以到附近咖啡馆或冰淇淋店小坐，或以公园为起点探索格拉纳达老城。"
+      }
+    ]
+  },
+  "sources": {
+    "title": "资料来源",
+    "subtitle": "本页信息综合自以下官方与权威渠道；开放时间、服务与设施可能随时变动，出行前请以官方最新信息为准。",
+    "items": [
+      {
+        "name": "Instituto Nicaragüense de Turismo (INTUR)",
+        "type": "尼加拉瓜官方旅游机构",
+        "url": "https://www.intur.gob.ni/"
+      },
+      {
+        "name": "Instituto Nicaragüense de Cultura (INC)",
+        "type": "尼加拉瓜国家文化局",
+        "url": "http://www.inc.gob.ni/"
+      },
+      {
+        "name": "Instituto Nicaragüense de Estudios Territoriales (INETER)",
+        "type": "尼加拉瓜国家领土研究所",
+        "url": "https://www.ineter.gob.ni/"
+      },
+      {
+        "name": "Mapa Nicaragua - Granada",
+        "type": "尼加拉瓜旅游参考指南",
+        "url": "https://www.mapanicaragua.com/granada/"
+      },
+      {
+        "name": "Google Maps - Parque Central de Granada",
+        "type": "地点与评分信息",
+        "url": "https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6"
+      }
+    ],
+    "lastUpdated": "内容最后更新：2026 年 9 月 9 日"
+  },
   "mapSection": {
     "title": "地图位置",
     "subtitle": "W2HW+XC 格拉纳达 尼加拉瓜",
-    "openMaps": "在 Google Maps 查看位置"
+    "openMaps": "在 Google Maps 查看位置",
+    "authorityText": "如需官方更新与区域旅游信息，请访问",
+    "authorityLink": "https://www.intur.gob.ni/",
+    "authorityLabel": "尼加拉瓜国家旅游局（INTUR）"
   },
   "footer": {
     "rights": "© 2026 Parque Central de Granada. 保留所有权利。",
@@ -255,11 +356,12 @@
         "url": "https://www.ineter.gob.ni/"
       }
     },
-    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。",
+    "photoCredit": "本网站所展示的所有图片，其产权及版权均归原摄影者所有。"
   },
   "privacy": {
     "title": "隐私政策",
-    "lastUpdated": "最后更新时间：2026年6月",
+    "lastUpdated": "最后更新时间：2026年9月",
     "sections": [
       {
         "heading": "1. 我们收集的信息",
@@ -281,7 +383,7 @@
   },
   "terms": {
     "title": "服务条款",
-    "lastUpdated": "最后更新时间：2026年6月",
+    "lastUpdated": "最后更新时间：2026年9月",
     "sections": [
       {
         "heading": "1. 接受条款",
@@ -307,7 +409,7 @@
   },
   "cookieSettings": {
     "title": "Cookie 设置",
-    "description": "最后更新时间：2026年6月\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "description": "最后更新时间：2026年9月\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
     "essential": {
       "title": "必要 Cookie",
       "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",

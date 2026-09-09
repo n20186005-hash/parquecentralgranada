@@ -8,6 +8,18 @@ export default function TransportSection() {
 
   const transportOptions = [
     {
+      key: 'taxi',
+      icon: (
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+          <rect x="3" y="10" width="18" height="8" rx="2"/>
+          <path d="M6 10l1.6-4h8.8L18 10"/>
+          <path d="M9 6h6"/>
+          <circle cx="8" cy="14" r="1"/>
+          <circle cx="16" cy="14" r="1"/>
+        </svg>
+      ),
+    },
+    {
       key: 'airport',
       icon: (
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">

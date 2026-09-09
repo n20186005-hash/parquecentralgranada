@@ -6,10 +6,31 @@ export default function Intro() {
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
+  const mustDoItems: string[] = messages?.intro?.mustDo?.items || [];
+  const hierarchy: string[] = messages?.intro?.hierarchy || [];
 
   return (
     <section className="section-padding">
       <div className="max-w-4xl mx-auto">
+        <nav
+          aria-label="Breadcrumb"
+          className="mb-5 flex flex-wrap items-center text-sm"
+        >
+          {hierarchy.map((item, i) => (
+            <span key={i} className="flex items-center">
+              {i > 0 && <span className="mx-2 opacity-50">›</span>}
+              <span
+                style={{
+                  color: i === 0 ? 'var(--text-primary)' : 'var(--text-muted)',
+                  fontWeight: i === 0 ? 600 : 400,
+                }}
+              >
+                {item}
+              </span>
+            </span>
+          ))}
+        </nav>
+
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
@@ -66,6 +87,30 @@ export default function Intro() {
             </ul>
           </div>
         </div>
+
+        {mustDoItems.length > 0 && (
+          <div className="mt-12 rounded-xl p-6 sm:p-8 border border-[var(--accent)]" style={{ background: 'var(--bg-tertiary)' }}>
+            <h3
+              className="font-display text-xl font-semibold mb-2"
+              style={{ color: 'var(--text-primary)' }}
+            >
+              {t('mustDo.title')}
+            </h3>
+            <ul className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-5">
+              {mustDoItems.map((item, i) => (
+                <li key={i} className="flex items-start gap-3 rounded-lg p-4" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
+                  <span
+                    className="mt-0.5 flex-shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-semibold text-white"
+                    style={{ background: 'var(--accent)' }}
+                  >
+                    {i + 1}
+                  </span>
+                  <span style={{ color: 'var(--text-secondary)' }}>{item}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
 
         <div className="mt-12 p-6 sm:p-8 rounded-xl border border-[var(--accent)]" style={{ background: 'var(--bg-tertiary)' }}>
           <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>

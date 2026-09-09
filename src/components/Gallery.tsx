@@ -4,42 +4,48 @@ import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photoFiles = [
-  'parque-central-de-granada (2).jpg',
-  'parque-central-de-granada (3).jpg',
-  'parque-central-de-granada (4).jpg',
-  'parque-central-de-granada (6).jpg',
-  'parque-central-de-granada (7).jpg',
-  'parque-central-de-granada (8).jpg',
-  'parque-central-de-granada (9).jpg',
-  'parque-central-de-granada (10).jpg',
-  'parque-central-de-granada (11).jpg',
-  'parque-central-de-granada (12).jpg',
-  'parque-central-de-granada (13).jpg',
-  'parque-central-de-granada (14).jpg',
-  'parque-central-de-granada (15).jpg',
-  'parque-central-de-granada (16).jpg',
-  'parque-central-de-granada (17).jpg',
-  'parque-central-de-granada (18).jpg',
-  'parque-central-de-granada (19).jpg',
-  'parque-central-de-granada (21).jpg',
-  'parque-central-de-granada (22).jpg',
-  'parque-central-de-granada (23).jpg',
-  'parque-central-de-granada (24).jpg',
-  'parque-central-de-granada (26).jpg',
-  'parque-central-de-granada (27).jpg',
-  'parque-central-de-granada (28).jpg',
-  'parque-central-de-granada (29).jpg',
+  'parque-central-granada-01.jpg',
+  'parque-central-granada-02.jpg',
+  'parque-central-granada-03.jpg',
+  'parque-central-granada-04.jpg',
+  'parque-central-granada-05.jpg',
+  'parque-central-granada-06.jpg',
+  'parque-central-granada-07.jpg',
+  'parque-central-granada-08.jpg',
+  'parque-central-granada-09.jpg',
+  'parque-central-granada-10.jpg',
+  'parque-central-granada-11.jpg',
+  'parque-central-granada-12.jpg',
+  'parque-central-granada-13.jpg',
+  'parque-central-granada-14.jpg',
+  'parque-central-granada-15.jpg',
+  'parque-central-granada-16.jpg',
+  'parque-central-granada-17.jpg',
+  'parque-central-granada-18.jpg',
+  'parque-central-granada-19.jpg',
+  'parque-central-granada-20.jpg',
+  'parque-central-granada-21.jpg',
+  'parque-central-granada-22.jpg',
+  'parque-central-granada-23.jpg',
+  'parque-central-granada-24.jpg',
+  'parque-central-granada-25.jpg',
 ];
 
 export default function Gallery() {
   const t = useTranslations('gallery');
   const captions = t.raw('captions') as string[];
+  const altPrefix = t('altPrefix');
+  const highlightAlts = (t.raw('highlightAlts') as string[]) || [];
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
 
   const photos = photoFiles.map((file, i) => ({
     src: `/gallery/${file}`,
-    alt: captions?.[i] || `Parque Natural Cerro Verde ${i + 1}`,
+    alt: highlightAlts?.[i]
+      ? highlightAlts[i]
+      : captions?.[i]
+      ? `${altPrefix} – ${captions[i]}`
+      : `${altPrefix} – photo ${i + 1}`,
   }));
 
   const visiblePhotos = photos;

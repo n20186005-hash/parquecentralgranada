@@ -8,13 +8,18 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://visitplazadelosmariachis.com';
+  const messages = (await import(`@/messages/${locale}.json`)).default;
+  const baseUrl = 'https://parquecentralgranada.com';
   const zhUrl = `${baseUrl}/zh/cookie-settings`;
   const enUrl = `${baseUrl}/en/cookie-settings`;
   const esUrl = `${baseUrl}/es/cookie-settings`;
   const selfUrl = locale === 'zh' ? zhUrl : locale === 'en' ? enUrl : esUrl;
 
   return {
+    title: `${messages.cookieSettings.title} | Parque Central de Granada (Granada, Nicaragua)`,
+    description:
+      messages.cookieSettings.analytics?.description ??
+      'Cookie settings of the Parque Central de Granada visitor guide.',
     alternates: {
       canonical: selfUrl,
       languages: {

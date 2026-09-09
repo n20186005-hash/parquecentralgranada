@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Parque Central de Granada | Granada Central Park",
-    "description": "Explore Parque Central de Granada in Granada, Nicaragua. A beautiful urban park located in the historic center, an important gathering place for locals and tourists."
+    "title": "Parque Central de Granada (Granada, Nicaragua) - Visitor Guide & Location",
+    "description": "Explore Parque Central de Granada (Plaza Mayor de Granada), the city park in the historic center of Granada, Nicaragua. Free 24h access, map, best time to visit, nearby Granada Cathedral and La Calzada."
   },
   "header": {
     "home": "Home",
@@ -12,15 +12,23 @@
   },
   "hero": {
     "title": "Parque Central de Granada",
-    "subtitle": "Granada Central Park · Nicaragua",
+    "subtitle": "Granada Central Park in historic Granada, Nicaragua · Free & open 24 hours",
     "rating": "4.5",
-    "reviewCount": "8,408",
-    "hours": "Urban Park",
-    "openMaps": "View Location"
+    "reviewCount": "8,493",
+    "hours": "Open 24 hours",
+    "openMaps": "View Location",
+    "imgAlt": "Parque Central de Granada - Main view in Granada, Nicaragua",
+    "call": "Call: +505 8565 3285"
   },
   "intro": {
     "title": "Explore Parque Central de Granada",
-    "description": "Parque Central de Granada (also known as Plaza Mayor de Granada) is located in Granada, Granada Department, Nicaragua. It is the most important urban park in Granada, situated in the historic center surrounded by the cathedral and other colonial buildings, an important gathering place for locals and tourists.",
+    "description": "Parque Central de Granada (also known as Plaza Mayor de Granada) is the city park at the heart of the historic center of Granada, Granada Department, Nicaragua. Surrounded by colonial landmarks such as Granada Cathedral, it is a primary hub for locals and travelers alike. From the park, visitors can easily explore nearby landmarks including Granada Cathedral (Catedral de Granada) and the pedestrian La Calzada street.",
+    "hierarchy": [
+      "Parque Central de Granada",
+      "Granada",
+      "Granada Department",
+      "Nicaragua"
+    ],
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -37,6 +45,15 @@
         "Cultural gathering place: Important meeting place for locals and tourists, full of vitality.",
         "Beautiful scenery: Park features beautiful gardens, fountains, and resting areas.",
         "Prime location: Walking distance to Granada's main attractions."
+      ]
+    },
+    "mustDo": {
+      "title": "Things to Do at Parque Central de Granada",
+      "items": [
+        "Try Vigorón: this classic Nicaraguan dish (yuca, chicharrón and cabbage salad) is served at kiosks around the plaza.",
+        "Take a horse-carriage ride through the old town streets, setting off from the Plaza Mayor.",
+        "See the Granada Cathedral: its imposing facade overlooks the main plaza and looks spectacular in the evening light.",
+        "Shop for handicrafts and souvenirs at the local kiosks around the square."
       ]
     }
   },
@@ -89,8 +106,12 @@
     "city": "City",
     "cityValue": "Granada",
     "googleRating": "Google Rating",
+    "phone": "Phone",
+    "phoneValue": "+505 8565 3285",
+    "coordinates": "Coordinates",
+    "coordinatesValue": "11.9299, -85.9539",
     "address": "Address",
-    "addressValue": "Parque central, Ave Vega, Granada, Nicaragua (https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6)",
+    "addressValue": "Gasolinera UNO, Ave Vega, Granada, Nicaragua",
     "plusCode": "Plus Code",
     "plusCodeValue": "W2HW+XC Granada Nicaragua"
   },
@@ -120,23 +141,26 @@
     "childrenPrice": "Respect local culture and protect historical environment"
   },
   "transport": {
-    "title": "Transportation",
+    "title": "How to Get to Parque Central de Granada, Nicaragua?",
     "airport": "From the Airport",
     "airportDesc": "Nearest airport: Augusto C. Sandino International Airport (MGA). From there, take a bus or taxi to Granada (about 40-50 minutes drive).",
     "selfDrive": "Driving",
     "selfDriveDesc": "The park is located in downtown Granada. Use navigation (https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6) and check for parking nearby.",
     "bus": "Public Transport",
-    "busDesc": "You can take public transport to the Granada bus station, then walk east for about 10-15 minutes to reach the park.",
+    "busDesc": "You can take public transport to the Granada bus station, then walk east for about 10-15 minutes to reach the park. Direct buses from Managua to Granada take about 45-60 minutes.",
     "intercity": "Walking Tour",
     "intercityDesc": "The park is located in the city center. If you are already in the old town of Granada, you can walk directly there. Surrounding attractions are within a 5-10 minute walk.",
     "cycling": "Other Means",
     "cyclingDesc": "Walking or cycling recommended, convenient transportation around the park.",
     "tips": "Travel Tips",
-    "tipsDesc": "Parque Central de Granada is an excellent place to experience Granada's urban scenery, evening visits recommended for night views."
+    "tipsDesc": "Parque Central de Granada is an excellent place to experience Granada's urban scenery, evening visits recommended for night views. The park sits opposite the Gasolinera UNO station on Ave Vega.",
+    "taxi": "By Taxi",
+    "taxiDesc": "From Managua or MGA airport you can take a taxi directly to Granada (about 40-50 minutes). The park is in front of the Gasolinera UNO station on Ave Vega, in the historic center."
   },
   "gallery": {
     "title": "Stunning Photos",
     "subtitle": "The Charm of Parque Central de Granada",
+    "altPrefix": "Parque Central de Granada",
     "captions": [
       "Park panoramic view",
       "Park scenery",
@@ -165,7 +189,11 @@
       "Colonial style"
     ],
     "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
+    "showAllPhotos": "Show All Photos",
+    "highlightAlts": [
+      "Granada Cathedral and Parque Central de Granada, Nicaragua",
+      "Craft kiosks at Parque Central de Granada"
+    ]
   },
   "reviews": {
     "title": "Visitor Reviews",
@@ -222,10 +250,83 @@
       }
     ]
   },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about Parque Central de Granada (Granada Central Park)",
+    "items": [
+      {
+        "q": "Where is Parque Central de Granada located?",
+        "a": "It is located on the Plaza Mayor, in the historic center of Granada, Granada Department, Nicaragua, at Ave Vega (next to Gasolinera UNO), directly in front of Granada Cathedral."
+      },
+      {
+        "q": "Is the park free to visit? What are the opening hours?",
+        "a": "Yes. As a public urban park and plaza, Parque Central de Granada is free to enter and open 24 hours a day, year round."
+      },
+      {
+        "q": "When is the best time to visit?",
+        "a": "The dry season (November–April) has the most pleasant weather. Mornings are cooler, while late afternoon and evening bring the best atmosphere once the plaza lights are on. During the rainy season (May–October), afternoon showers are common, so bring an umbrella."
+      },
+      {
+        "q": "How do I get there from Managua or the airport?",
+        "a": "The nearest airport is Augusto C. Sandino International Airport (MGA) in Managua, roughly a 40–50 minute drive away. The park is in the center of Granada, about a 10–15 minute walk from the bus terminal; taxis and Ubers are also available."
+      },
+      {
+        "q": "Is there parking near the park?",
+        "a": "The park sits in a largely pedestrian colonial quarter with limited street parking and a few private lots. Most visitors walk or ride to the edge of the old town and continue on foot."
+      },
+      {
+        "q": "What sights are near the park?",
+        "a": "The park is right beside Granada Cathedral. Within walking distance you will find the La Calzada pedestrian street, Iglesia La Merced, the San Francisco Convent and Museum, and the Lake Nicaragua (Lago de Nicaragua) waterfront and islet boat docks."
+      },
+      {
+        "q": "Any tips or things to keep in mind while visiting?",
+        "a": "Respect local culture and places of worship, keep an eye on your belongings, and use sun protection and water during the day. In the evening, stay in well-lit areas and travel in groups. Horse-carriage rides and street performers add to the lively atmosphere."
+      },
+      {
+        "q": "What can I do at the park?",
+        "a": "Stroll among the fountains and gardens, relax on benches or in the gazebo, watch daily life unfold, admire the colonial façades around the plaza, take photos, enjoy a nearby café or ice cream, or use the park as your starting point for exploring old Granada."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & References",
+    "subtitle": "Information on this page is compiled from the following official and authoritative channels; opening hours, services and facilities may change, so please confirm the latest details with official sources before you travel.",
+    "items": [
+      {
+        "name": "Instituto Nicaragüense de Turismo (INTUR)",
+        "type": "Official Nicaraguan tourism institute",
+        "url": "https://www.intur.gob.ni/"
+      },
+      {
+        "name": "Instituto Nicaragüense de Cultura (INC)",
+        "type": "Nicaraguan Institute of Culture",
+        "url": "http://www.inc.gob.ni/"
+      },
+      {
+        "name": "Instituto Nicaragüense de Estudios Territoriales (INETER)",
+        "type": "Nicaraguan Institute of Territorial Studies",
+        "url": "https://www.ineter.gob.ni/"
+      },
+      {
+        "name": "Mapa Nicaragua - Granada",
+        "type": "Nicaragua travel reference guide",
+        "url": "https://www.mapanicaragua.com/granada/"
+      },
+      {
+        "name": "Google Maps - Parque Central de Granada",
+        "type": "Location and rating information",
+        "url": "https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6"
+      }
+    ],
+    "lastUpdated": "Content last updated: September 9, 2026"
+  },
   "mapSection": {
     "title": "Location & Map",
     "subtitle": "W2HW+XC Granada Nicaragua",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "authorityText": "For official updates and regional tourism information, visit",
+    "authorityLink": "https://www.intur.gob.ni/",
+    "authorityLabel": "Nicaraguan Institute of Tourism (INTUR)"
   },
   "footer": {
     "rights": "© 2026 Parque Central de Granada. All rights reserved.",
@@ -255,11 +356,12 @@
         "url": "https://www.ineter.gob.ni/"
       }
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "photoCredit": "All photos displayed on this website remain the property of their original photographers; all rights and credits belong to them."
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last Updated: June 2026",
+    "lastUpdated": "Last Updated: September 2026",
     "sections": [
       {
         "heading": "1. Information We Collect",
@@ -281,7 +383,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last Updated: June 2026",
+    "lastUpdated": "Last Updated: September 2026",
     "sections": [
       {
         "heading": "1. Acceptance of Terms",
@@ -307,7 +409,7 @@
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "description": "Last Updated: September 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
     "essential": {
       "title": "Essential Cookies",
       "description": "These cookies are essential for the website to function properly and cannot be disabled.",
