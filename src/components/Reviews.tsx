@@ -1,8 +1,8 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations } from 'next-intl';
 
 function Stars({ count }: { count: number }) {
   return (
-    <div className="flex gap-0.5">
+    <div className="flex gap-0.5" aria-hidden="true">
       {[1, 2, 3, 4, 5].map((i) => (
         <svg
           key={i}
@@ -21,13 +21,8 @@ function Stars({ count }: { count: number }) {
 
 export default function Reviews() {
   const t = useTranslations('reviews');
-  const messages = useMessages() as any;
-  const items = (messages?.reviews?.items || []) as Array<{
-    name: string;
-    date: string;
-    rating: number;
-    text: string;
-  }>;
+  const tHero = useTranslations('hero');
+  const mapsUrl = 'https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6';
 
   return (
     <section id="reviews" className="section-padding">
@@ -47,50 +42,39 @@ export default function Reviews() {
           {t('declaration')}
         </p>
 
-        <div className="grid sm:grid-cols-2 gap-4 sm:gap-6 mb-8">
-          {items.map((review, i) => (
-            <div
-              key={i}
-              className="rounded-xl p-5 sm:p-6 transition-shadow hover:shadow-md"
-              style={{
-                background: 'var(--card-bg)',
-                boxShadow: 'var(--card-shadow)',
-                border: '1px solid var(--border-color)',
-              }}
+        {/* Aggregate rating snapshot (no individual user reviews) */}
+        <div
+          className="rounded-2xl p-8 text-center mb-8"
+          style={{
+            background: 'var(--card-bg)',
+            boxShadow: 'var(--card-shadow)',
+            border: '1px solid var(--border-color)',
+          }}
+        >
+          <div className="flex items-center justify-center gap-3 mb-3">
+            <span
+              className="font-display text-4xl font-bold"
+              style={{ color: 'var(--text-primary)' }}
             >
-              <div className="flex items-start justify-between mb-3">
-                <div>
-                  <div className="flex items-center gap-2 mb-1">
-                    <div
-                      className="w-8 h-8 rounded-full flex items-center justify-center text-sm font-semibold text-white"
-                      style={{ background: 'var(--accent)' }}
-                    >
-                      {review.name.charAt(0)}
-                    </div>
-                    <span
-                      className="text-sm font-semibold"
-                      style={{ color: 'var(--text-primary)' }}
-                    >
-                      {review.name}
-                    </span>
-                  </div>
-                </div>
-                <span className="text-xs" style={{ color: 'var(--text-muted)' }}>
-                  {review.date}
-                </span>
-              </div>
-              <Stars count={review.rating} />
-              <p className="text-sm mt-3 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-                {review.text}
-              </p>
-            </div>
-          ))}
+              {tHero('rating')}
+            </span>
+            <span className="text-lg" style={{ color: 'var(--text-muted)' }}>/ 5</span>
+          </div>
+          <div className="flex items-center justify-center gap-2 mb-3">
+            <Stars count={5} />
+          </div>
+          <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>
+            {tHero('reviewCount')} {t('reviewsLabel')}
+          </p>
+          <p className="text-xs mt-2" style={{ color: 'var(--text-muted)' }}>
+            {t('verifiedNote')}
+          </p>
         </div>
 
         {/* More reviews link — arrow only */}
         <div className="flex justify-center">
           <a
-            href="https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6"
+            href={mapsUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium transition-all"

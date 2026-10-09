@@ -4,18 +4,18 @@ import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import type { Metadata } from 'next';
 
-const baseUrl = 'https://parquecentralgranada.com';
+const baseUrl = 'https://www.parquecentralgranada.com';
 
 const localeTags: Record<string, string> = {
-  zh: 'zh-CN',
-  en: 'en',
   es: 'es',
+  en: 'en',
+  zh: 'zh-CN',
 };
 
 const ogLocales: Record<string, string> = {
-  zh: 'zh_CN',
-  en: 'en_US',
   es: 'es_NI',
+  en: 'en_US',
+  zh: 'zh_CN',
 };
 
 export function generateStaticParams() {
@@ -46,10 +46,10 @@ export async function generateMetadata({
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
+        'es-NI': esUrl,
         'en': enUrl,
-        'es': esUrl,
-        'x-default': zhUrl,
+        'zh': zhUrl,
+        'x-default': esUrl,
       },
     },
     openGraph: {

@@ -14,7 +14,7 @@
     "title": "Parque Central de Granada",
     "subtitle": "格拉纳达中央公园 · 尼加拉瓜格拉纳达历史中心 · 全天免费开放",
     "rating": "4.5",
-    "reviewCount": "8,493",
+    "reviewCount": "8,529",
     "hours": "全天开放 · 24 小时",
     "openMaps": "查看位置",
     "imgAlt": "Parque Central de Granada（格拉纳达中央公园）- 尼加拉瓜格拉纳达全景",
@@ -197,58 +197,10 @@
   },
   "reviews": {
     "title": "游客评价",
-    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "declaration": "评分仅供参考，数据来自 Google Maps（外部链接）。本站不发布单独的游客评价。",
     "moreReviews": "在 Google Maps 查看更多评价",
-    "items": [
-      {
-        "name": "Carlos Rivera",
-        "date": "2个月前",
-        "rating": 5,
-        "text": "一个充满历史魅力的地方。公园的氛围令人难忘，强烈推荐给所有喜欢历史的游客。"
-      },
-      {
-        "name": "María González",
-        "date": "3周前",
-        "rating": 5,
-        "text": "令人惊叹的城市公园。周围的殖民建筑非常壮观，这里是格拉纳达文化的重要组成部分。"
-      },
-      {
-        "name": "Juan Pérez",
-        "date": "1个月前",
-        "rating": 4,
-        "text": "非常有趣的地方，可以感受真正的格拉纳达文化。建议晚上前往，那时候灯光最美。"
-      },
-      {
-        "name": "Ana Torres",
-        "date": "半年多前",
-        "rating": 5,
-        "text": "格拉纳达文化的重要组成部分。公园的氛围令人感动，这里是格拉纳达必去的地方。"
-      },
-      {
-        "name": "Roberto Silva",
-        "date": "2年前",
-        "rating": 4,
-        "text": "很好的文化体验。公园周围的历史建筑非常精彩，周边还有很多文化景点。"
-      },
-      {
-        "name": "Sofía Méndez",
-        "date": "半年多前",
-        "rating": 5,
-        "text": "美丽的公园，充满了尼加拉瓜文化的魅力。殖民氛围令人难忘，一定要来体验。"
-      },
-      {
-        "name": "Miguel Herrera",
-        "date": "3个月前",
-        "rating": 4,
-        "text": "有趣的文化场所。可以近距离感受格拉纳达的历史，建议尊重当地文化。"
-      },
-      {
-        "name": "Laura Vargas",
-        "date": "1个月前",
-        "rating": 5,
-        "text": "格拉纳达的文化瑰宝。中央公园是了解尼加拉瓜殖民文化的重要场所，一定要来体验。"
-      }
-    ]
+    "reviewsLabel": "条 Google Maps 评价",
+    "verifiedNote": "评分数据来自 Google Maps（2026 年 10 月核对）"
   },
   "faq": {
     "title": "常见问题（FAQ）",
@@ -318,7 +270,7 @@
         "url": "https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6"
       }
     ],
-    "lastUpdated": "内容最后更新：2026 年 9 月 9 日"
+    "lastUpdated": "内容最后更新：2026 年 10 月 9 日"
   },
   "mapSection": {
     "title": "地图位置",

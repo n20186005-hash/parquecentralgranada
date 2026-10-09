@@ -15,7 +15,7 @@ import SourcesSection from '@/components/SourcesSection';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
 
-const baseUrl = 'https://parquecentralgranada.com';
+const baseUrl = 'https://www.parquecentralgranada.com';
 const mapsUrl = 'https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6';
 const inturUrl = 'https://www.intur.gob.ni/';
 const heroImage = '/gallery/parque-central-granada-07.jpg';
@@ -66,8 +66,8 @@ function buildJsonLd(locale: string, messages: any) {
         description: messages.meta.description,
         isPartOf: { '@id': `${baseUrl}/#website` },
         about: { '@id': `${baseUrl}/#attraction` },
-        inLanguage: schemaLangs[locale] || 'zh-CN',
-        dateModified: '2026-09-09',
+        inLanguage: schemaLangs[locale] || 'es-NI',
+        dateModified: '2026-10-09',
       },
       {
         '@type': ['TouristAttraction', 'Park'],
@@ -97,12 +97,6 @@ function buildJsonLd(locale: string, messages: any) {
           dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
           opens: '00:00',
           closes: '23:59',
-        },
-        aggregateRating: {
-          '@type': 'AggregateRating',
-          ratingValue: '4.5',
-          reviewCount: 8493,
-          bestRating: 5,
         },
         touristType: ['City Park', 'Public Square'],
         sameAs: [mapsUrl, inturUrl],

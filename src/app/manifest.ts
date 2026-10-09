@@ -8,12 +8,12 @@ export default function manifest(): MetadataRoute.Manifest {
     short_name: 'Parque Central',
     description:
       'Visitor guide to Parque Central de Granada (Plaza Mayor de Granada) in Granada, Nicaragua.',
-    start_url: '/zh',
+    start_url: '/es',
     scope: '/',
     display: 'standalone',
     background_color: '#faf8f4',
     theme_color: '#3a7a8d',
-    lang: 'zh-CN',
+    lang: 'es',
     icons: [
       {
         src: '/icons/icon.svg',

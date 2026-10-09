@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Parque Central de Granada, Nicaragua: Guía, Fotos y Qué Hacer",
-    "description": "Descubre el Parque Central de Granada en Nicaragua (Plaza Mayor). Encuentra ubicación exacta, cómo llegar, historia, fotos y atracciones cercanas. ¡Planifica tu visita!"
+    "title": "Parque Central de Granada, Nicaragua | Fotos y Cómo Llegar",
+    "description": "Descubre el Parque Central de Granada, Nicaragua: ubicación, fotos, cómo llegar, qué hacer cerca de la Catedral y consejos para tu visita."
   },
   "header": {
     "home": "Inicio",
@@ -14,7 +14,7 @@
     "title": "Parque Central de Granada",
     "subtitle": "Parque urbano en el centro histórico de Granada, Nicaragua · Gratis y abierto 24 horas",
     "rating": "4.5",
-    "reviewCount": "8,493",
+    "reviewCount": "8,529",
     "hours": "Abierto 24 horas",
     "openMaps": "Cómo Llegar (Google Maps)",
     "imgAlt": "Parque Central de Granada - Vista principal en Granada, Nicaragua",
@@ -197,58 +197,10 @@
   },
   "reviews": {
     "title": "Reseñas de Visitantes",
-    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
+    "declaration": "Calificación mostrada con fines informativos, según Google Maps (enlace externo). No publicamos reseñas individuales de usuarios.",
     "moreReviews": "Ver Más Reseñas en Google Maps",
-    "items": [
-      {
-        "name": "Carlos Rivera",
-        "date": "hace 2 meses",
-        "rating": 5,
-        "text": "Un lugar lleno de encanto histórico. El ambiente del parque es inolvidable, muy recomendable para todos los turistas que aman la historia."
-      },
-      {
-        "name": "María González",
-        "date": "hace 3 semanas",
-        "rating": 5,
-        "text": "Parque urbano asombroso. Los edificios coloniales circundantes son muy espectaculares. Esta es una parte importante de la cultura de Granada."
-      },
-      {
-        "name": "Juan Pérez",
-        "date": "hace 1 mes",
-        "rating": 4,
-        "text": "Lugar muy interesante para acercarse a la verdadera cultura de Granada. Se recomiendan las visitas nocturnas cuando la iluminación es más hermosa."
-      },
-      {
-        "name": "Ana Torres",
-        "date": "hace más de 6 meses",
-        "rating": 5,
-        "text": "Una parte importante de la cultura de Granada. El ambiente del parque es conmovedor, un lugar imprescindible en Granada."
-      },
-      {
-        "name": "Roberto Silva",
-        "date": "hace 2 años",
-        "rating": 4,
-        "text": "Excelente experiencia cultural. Los edificios históricos alrededor del parque son maravillosos, y hay muchas atracciones culturales cercanas."
-      },
-      {
-        "name": "Sofía Méndez",
-        "date": "hace más de 6 meses",
-        "rating": 5,
-        "text": "Hermoso parque, lleno del encanto de la cultura nicaragüense. El ambiente colonial es inolvidable, definitivamente vale la pena visitarlo."
-      },
-      {
-        "name": "Miguel Herrera",
-        "date": "hace 3 meses",
-        "rating": 4,
-        "text": "Lugar cultural interesante. Experimento la historia de Granada de cerca, recomiendo respetar la cultura local."
-      },
-      {
-        "name": "Laura Vargas",
-        "date": "hace 1 mes",
-        "rating": 5,
-        "text": "Gema cultural de Granada. El Parque Central es un lugar importante para comprender la cultura colonial nicaragüense, definitivamente vale la pena experimentarlo."
-      }
-    ]
+    "reviewsLabel": "reseñas en Google Maps",
+    "verifiedNote": "Calificación verificada en Google Maps · octubre 2026"
   },
   "faq": {
     "title": "Preguntas Frecuentes",
@@ -318,7 +270,7 @@
         "url": "https://maps.app.goo.gl/GTNNgPRpdFnXWfBn6"
       }
     ],
-    "lastUpdated": "Contenido actualizado por última vez: 9 de septiembre de 2026"
+    "lastUpdated": "Contenido actualizado por última vez: 9 de octubre de 2026"
   },
   "mapSection": {
     "title": "Ubicación y Mapa",

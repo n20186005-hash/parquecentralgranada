@@ -9,7 +9,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://parquecentralgranada.com';
+  const baseUrl = 'https://www.parquecentralgranada.com';
   const zhUrl = `${baseUrl}/zh/privacy-policy`;
   const enUrl = `${baseUrl}/en/privacy-policy`;
   const esUrl = `${baseUrl}/es/privacy-policy`;
@@ -22,10 +22,10 @@ export async function generateMetadata({
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
+        'es-NI': esUrl,
         'en': enUrl,
-        'es': esUrl,
-        'x-default': zhUrl,
+        'zh': zhUrl,
+        'x-default': esUrl,
       },
     },
   };

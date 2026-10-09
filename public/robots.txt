@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://parquecentralgranada.com/sitemap.xml
+Sitemap: https://www.parquecentralgranada.com/sitemap.xml
